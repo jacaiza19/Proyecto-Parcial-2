@@ -23,3 +23,5 @@ TEMA DEL PROYECTO:
 * CIRCUITO ESCALERA O 3 VIAS 
 
 FECHA: 19 De Enero de 2023
+
+** 1. Objetivos
