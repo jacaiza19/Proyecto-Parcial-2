@@ -20,8 +20,17 @@ FECHA: 19 De Enero de 2023
 
 # 1. OBJETIVOS
 ## Objetivo General
+* Implementar y analizar el funcionamiento de un circuto conmutado el cual nos permita encender y apagar una lampara desde dos puntos diferentes, posteriormente implementarlo de manera fisica para su mejor analisis y entendimiento.
+
 ## Objetivos Especificos 
-# 2. MARCO TEORICO 
+* Realizar el diagrama esquematico del circuito para poder analizar, verificar su funcionamiento y posteriormente construirlo fisicamente 
+* Construir el circuito fisico mediante el uso de componentes que nos permitan representarlo de una manera correcta y eficiente para posteriormente verificar su correcto funcionamineto al momento de conectarlo a su fuente de alimentacion 
+* Representar de una manera eficiente el respectivo procedimineto que se llevo a cabo para construir el circuito de manera fisica.
+
+# 2. MARCO TEORICO
+
+![Cicuito Escalera o 3 vias](https://user-images.githubusercontent.com/116832991/213492675-b9baeed3-af6d-4816-bbfe-7648e778e676.png)
+
 # 3. MATERIALES
 * 2 Interruptores de 3 vias o vaiven 
 
@@ -97,7 +106,15 @@ Para comenzar con el circuito, primero detallamos el diagrama circuital  del pro
 ![image](https://user-images.githubusercontent.com/116832991/213372316-7fd1008c-98a3-47e6-b00d-d6148a3c950e.png)
 
 # VIDEO
-# CONCLUSIONES 
+
+* https://youtu.be/qWEf_vFWK-M
+
+# CONCLUSIONES
+
+* Tal y como hemos podido comprobar este circuito nos permite apagar un elemento que produzca luz desde dos puntos diferentes por ejemplo la luz de una escalera en un hogar.
+* Tras el analisis podemos concluir que la lampara se enciende desde cualquier nivel y se paga de la misma manera. Esto gracias a las conexión de puentes que existe entre sus extremos.
+* Analizado una vez todo el circuito podemos definir que in interruptor de 3 vias varian de calidad y de funcion segun el requerimiento que necesitemos ya sea domestico o industrial ya que este necesita especificaciones de vida 
+
 # REFERENCIAS
 * https://www.youtube.com/watch?v=q3oUc9_qnyc&t=265s
 
