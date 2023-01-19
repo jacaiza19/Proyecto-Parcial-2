@@ -105,6 +105,9 @@ Para comenzar con el circuito, primero detallamos el diagrama circuital  del pro
 
 ![image](https://user-images.githubusercontent.com/116832991/213372316-7fd1008c-98a3-47e6-b00d-d6148a3c950e.png)
 
+## FUNCIONAMIENTO DEL CIRCUITO 
+* Este circuito funciona mediante la conexion de dos cables viajeros o de retorno a las interruptores formando entre ellos un puente para que funcionen correctamente, el cable fase que se encuentra conectado al interruptor izquierdo se lo conecta al cable fase de la fuente de alimentacion permitiendo de esa manera que corra corriente por todo el circuito, el cable de retorno que se encuentra conectado al punto comun del interruptor derecho se lo conecta al punto de fase de la roseta, permitiendo de esa manera que se prenda el bombillo, el ulrimo cable que nos sobra es el neutro del cable de fuente de alimentacion este va conectado a la roseta cerrando el circuito y funcionando correctamente.
+
 # VIDEO
 
 * https://youtu.be/qWEf_vFWK-M
