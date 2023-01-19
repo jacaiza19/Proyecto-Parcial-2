@@ -60,7 +60,7 @@ FECHA: 19 De Enero de 2023
 
 Para comenzar con el circuito, primero detallamos el diagrama circuital  del proyecto :
 
-![image](https://user-images.githubusercontent.com/116832991/213375607-78caf3df-b0dc-48ad-9000-b4f9b14b163a.png)
+![image](https://user-images.githubusercontent.com/116832991/213377528-bf0afd17-22c4-4984-b5c6-23e4c7180c73.png)
 
 ## Armado de proyecto 
 * Empezamos montando la base para el circuito, es decir montando las cajas para los interruptores y la caja octogonal a la tabla triple 
